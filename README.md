@@ -1,2 +1,3 @@
 # USBToUefiShell
-Copy EFI folder to FAT32 USB drive can boot to x64 uefishell.
+1.Format the USB drive to FAT32.
+2.Copy the efi folder to the root directory of the FAT32 USB drive.
